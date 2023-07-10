@@ -1,0 +1,17 @@
+E:\Excel_Task\PatientInformationPortal\Backend\PatientInformationPortal_Backend\Repositories\bin\Debug\net6.0\Repositories.deps.json
+E:\Excel_Task\PatientInformationPortal\Backend\PatientInformationPortal_Backend\Repositories\bin\Debug\net6.0\Repositories.runtimeconfig.json
+E:\Excel_Task\PatientInformationPortal\Backend\PatientInformationPortal_Backend\Repositories\bin\Debug\net6.0\Repositories.dll
+E:\Excel_Task\PatientInformationPortal\Backend\PatientInformationPortal_Backend\Repositories\bin\Debug\net6.0\Repositories.pdb
+E:\Excel_Task\PatientInformationPortal\Backend\PatientInformationPortal_Backend\Repositories\obj\Debug\net6.0\Repositories.csproj.AssemblyReference.cache
+E:\Excel_Task\PatientInformationPortal\Backend\PatientInformationPortal_Backend\Repositories\obj\Debug\net6.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+E:\Excel_Task\PatientInformationPortal\Backend\PatientInformationPortal_Backend\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfoInputs.cache
+E:\Excel_Task\PatientInformationPortal\Backend\PatientInformationPortal_Backend\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfo.cs
+E:\Excel_Task\PatientInformationPortal\Backend\PatientInformationPortal_Backend\Repositories\obj\Debug\net6.0\Repositories.csproj.CoreCompileInputs.cache
+E:\Excel_Task\PatientInformationPortal\Backend\PatientInformationPortal_Backend\Repositories\obj\Debug\net6.0\Repositories.dll
+E:\Excel_Task\PatientInformationPortal\Backend\PatientInformationPortal_Backend\Repositories\obj\Debug\net6.0\refint\Repositories.dll
+E:\Excel_Task\PatientInformationPortal\Backend\PatientInformationPortal_Backend\Repositories\obj\Debug\net6.0\Repositories.pdb
+E:\Excel_Task\PatientInformationPortal\Backend\PatientInformationPortal_Backend\Repositories\obj\Debug\net6.0\Repositories.genruntimeconfig.cache
+E:\Excel_Task\PatientInformationPortal\Backend\PatientInformationPortal_Backend\Repositories\obj\Debug\net6.0\ref\Repositories.dll
+E:\Excel_Task\PatientInformationPortal\Backend\PatientInformationPortal_Backend\Repositories\bin\Debug\net6.0\DatabaseModels.dll
+E:\Excel_Task\PatientInformationPortal\Backend\PatientInformationPortal_Backend\Repositories\bin\Debug\net6.0\DatabaseModels.pdb
+E:\Excel_Task\PatientInformationPortal\Backend\PatientInformationPortal_Backend\Repositories\obj\Debug\net6.0\Repositories.csproj.CopyComplete

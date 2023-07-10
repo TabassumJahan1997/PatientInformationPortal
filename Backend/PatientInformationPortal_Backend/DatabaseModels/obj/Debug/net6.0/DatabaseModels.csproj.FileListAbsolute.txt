@@ -1,0 +1,14 @@
+E:\Excel_Task\PatientInformationPortal\Backend\PatientInformationPortal_Backend\DatabaseModels\bin\Debug\net6.0\DatabaseModels.deps.json
+E:\Excel_Task\PatientInformationPortal\Backend\PatientInformationPortal_Backend\DatabaseModels\bin\Debug\net6.0\DatabaseModels.runtimeconfig.json
+E:\Excel_Task\PatientInformationPortal\Backend\PatientInformationPortal_Backend\DatabaseModels\bin\Debug\net6.0\DatabaseModels.dll
+E:\Excel_Task\PatientInformationPortal\Backend\PatientInformationPortal_Backend\DatabaseModels\bin\Debug\net6.0\DatabaseModels.pdb
+E:\Excel_Task\PatientInformationPortal\Backend\PatientInformationPortal_Backend\DatabaseModels\obj\Debug\net6.0\DatabaseModels.csproj.AssemblyReference.cache
+E:\Excel_Task\PatientInformationPortal\Backend\PatientInformationPortal_Backend\DatabaseModels\obj\Debug\net6.0\DatabaseModels.GeneratedMSBuildEditorConfig.editorconfig
+E:\Excel_Task\PatientInformationPortal\Backend\PatientInformationPortal_Backend\DatabaseModels\obj\Debug\net6.0\DatabaseModels.AssemblyInfoInputs.cache
+E:\Excel_Task\PatientInformationPortal\Backend\PatientInformationPortal_Backend\DatabaseModels\obj\Debug\net6.0\DatabaseModels.AssemblyInfo.cs
+E:\Excel_Task\PatientInformationPortal\Backend\PatientInformationPortal_Backend\DatabaseModels\obj\Debug\net6.0\DatabaseModels.csproj.CoreCompileInputs.cache
+E:\Excel_Task\PatientInformationPortal\Backend\PatientInformationPortal_Backend\DatabaseModels\obj\Debug\net6.0\DatabaseModels.dll
+E:\Excel_Task\PatientInformationPortal\Backend\PatientInformationPortal_Backend\DatabaseModels\obj\Debug\net6.0\refint\DatabaseModels.dll
+E:\Excel_Task\PatientInformationPortal\Backend\PatientInformationPortal_Backend\DatabaseModels\obj\Debug\net6.0\DatabaseModels.pdb
+E:\Excel_Task\PatientInformationPortal\Backend\PatientInformationPortal_Backend\DatabaseModels\obj\Debug\net6.0\DatabaseModels.genruntimeconfig.cache
+E:\Excel_Task\PatientInformationPortal\Backend\PatientInformationPortal_Backend\DatabaseModels\obj\Debug\net6.0\ref\DatabaseModels.dll
